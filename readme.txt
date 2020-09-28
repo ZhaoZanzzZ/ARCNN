@@ -5,7 +5,7 @@ This tutorial uses two data sets, BSDS500 and kodak, but for the kodak data set,
 ## jpeg
 ### Data Processing
 
-*Download [BSDS500]&[kodak](http://viplab.fudan.edu.cn/vip/projects/h264enc/wiki/Ml_tutorial)datasets,and Put the two folders BSDS500 and kodak in './data' directory
+*Download [BSDS500]&[kodak](http://viplab.fudan.edu.cn/vip/projects/h264enc/wiki/Ml_tutorial) datasets,and Put the two folders BSDS500 and kodak in './data' directory
 
 *change matlab working directory to 'the/repository/path/data/make_train_BSDS500'
 *run 'extract_data' on matlab console
